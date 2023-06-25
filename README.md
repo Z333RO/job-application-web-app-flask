@@ -8,6 +8,7 @@ Install the following dependencies/packages:
 ```
 pip3 install flask-sqlalchemy
 pip3 install flask-mail
+python3 app.py << cd into the folder where the script is and just run it
 ```
 
 ![Job App Screenshot](job_app_screenshot.png)
