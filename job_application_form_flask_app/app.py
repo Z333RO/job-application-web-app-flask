@@ -1,4 +1,5 @@
-# To enable the email confirmation feature, just uncomment everything that is commented now. I commented that feature out to avoid errors when testing this first locally.
+# To enable the email confirmation feature, just uncomment everything that is commented now. 
+# I commented that feature out to avoid errors when testing this first locally.
 
 from datetime import datetime
 from flask import Flask, render_template, request, flash
